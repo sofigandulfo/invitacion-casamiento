@@ -12,7 +12,7 @@ function Ubicacion(){
                 </div>
             </div>
             <div>
-                <img src='/src/assets/separador de textos chico.png' className='separador-chico'></img>
+                <img src='/separador de textos chico.png' className='separador-chico'></img>
             </div>
         </>
     )

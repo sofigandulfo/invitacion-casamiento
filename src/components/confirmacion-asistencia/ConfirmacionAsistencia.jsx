@@ -9,15 +9,15 @@ function ConfirmacionAsistencia(){
                 
                 <div className="contacto-item">
                     <p>CONTACTAR A LA NOVIA</p>
-                    <img src='/src/assets/logo WhatsApp.png' className="whatsapp-logo" />
+                    <img src='/logo WhatsApp.png' className="whatsapp-logo" />
                 </div>
 
                 <div className="contacto-item">
                     <p>CONTACTAR AL NOVIO</p>
-                    <img src='/src/assets/logo WhatsApp.png' className="whatsapp-logo" />
+                    <img src='/logo WhatsApp.png' className="whatsapp-logo" />
                 </div>
             </div>
-                <img src='/src/assets/separador de textos chico.png' alt='Separador' className='separador-chico'></img>
+                <img src='/separador de textos chico.png' alt='Separador' className='separador-chico'></img>
         </>
     )
 }

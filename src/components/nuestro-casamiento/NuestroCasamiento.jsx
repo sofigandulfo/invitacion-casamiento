@@ -7,10 +7,10 @@ function NuestroCasamiento(){
             <h2 className='titulo-casamiento'>Nuestro Casamiento</h2>
           </div>
           <div>
-            <img src="/src/assets/Fecha.png" alt="Fecha" className='img-fecha' />
+            <img src="/Fecha.png" alt="Fecha" className='img-fecha' />
           </div>
           <div>
-            <img src='/src/assets/separador de textos chico.png' className='separador-chico'></img>
+            <img src='/separador de textos chico.png' className='separador-chico'></img>
           </div>
         </>
     )
