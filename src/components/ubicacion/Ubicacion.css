@@ -1,0 +1,43 @@
+.ubicacion-container {
+  text-align: center;
+  margin: 40px 0;
+}
+
+
+.nombre-lugar {
+  font-family: 'Cinzel', serif;
+  font-size: 1.1em;
+  color: #2D679C;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+
+.direccion {
+  font-family: 'Cinzel', serif;
+  font-size: 0.8em;
+  color: #2D679C;
+  margin: 0;
+}
+
+
+.boton-ubicacion-container {
+  margin-top: 20px;
+}
+
+
+.boton-ubicacion {
+  color: #2D679C;
+  font-family: 'Cinzel', serif;
+  border: 1px solid #2D679C;
+  border-radius: 8px;
+  font-size: 0.7em;
+  cursor: pointer;
+  transition: 0.2s ease;
+  font-weight: bold;
+}
+
+.boton-ubicacion:hover {
+  background-color: #2D679C;
+  color: white;
+}

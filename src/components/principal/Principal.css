@@ -1,0 +1,35 @@
+
+p{
+    font-family: 'Cinzel', serif;
+    color: #2D679C;
+    font-size: 0.9em;
+}
+
+.circulo-container {
+  position: relative;
+  display: inline-block; 
+}
+
+
+.circulo-img {
+  width: 200px; 
+  height: auto;
+  display: block;
+}
+
+
+.deco-img {
+  position: absolute;
+  bottom: -10px;      
+  left: -40px;        
+  width: 110px;  
+  transform: rotate(-60deg);
+  pointer-events: none; 
+}
+
+.separador-1 {
+  width: 85%;  
+  height: auto;
+  display: block;
+  margin: 0px auto;  
+}

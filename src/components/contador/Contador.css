@@ -1,0 +1,11 @@
+@font-face {
+     font-family: 'Qarinthen';
+    src: url(/src/assets/fonts/Qarinthen.otf);
+}
+
+.contador-text{
+    font-family: 'Qarinthen';
+    color: #2D679C;
+    font-size: 1.2em;
+}
+

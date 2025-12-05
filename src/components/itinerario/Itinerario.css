@@ -1,0 +1,16 @@
+.itinerario-img{
+  width: 85%;    
+  height: auto;
+}
+
+.itinerario-titulo{
+    font-family: 'Qarinthen';
+    color: #2D679C;
+    text-align: center;
+    font-size: 1.3em;
+    margin-bottom: 30px;
+}
+
+.separador-grande{
+    width: 90%;
+}
