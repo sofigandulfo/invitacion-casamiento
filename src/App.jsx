@@ -5,6 +5,9 @@ import Contador from './components/contador/Contador'
 import Ubicacion from './components/ubicacion/Ubicacion'
 import Itinerario from './components/itinerario/Itinerario'
 import ConfirmacionAsistencia from './components/confirmacion-asistencia/ConfirmacionAsistencia'
+import CodigoVestimenta from './components/codigo-vestimenta/CodigoVestimenta'
+import Regalo from './components/regalo/Regalo'
+import Footer from './components/footer/Footer'
 
 function App() {
 
@@ -17,6 +20,9 @@ function App() {
      <Ubicacion />
      <Itinerario />
      <ConfirmacionAsistencia />
+     <CodigoVestimenta />
+     <Regalo />
+     <Footer />
     </>
   )
 }

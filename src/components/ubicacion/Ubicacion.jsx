@@ -4,8 +4,8 @@ function Ubicacion(){
     return(
         <>
             <div className='ubicacion-container'>
-                <p className='nombre-lugar'>BLÉ EVENTOS</p>
-                <p className='direccion'>AV. FRANCISCO BEIRÓ 4526 - CABA</p>
+                <p className='nombre-lugar'>Blé Eventos</p>
+                <p className='direccion'>Av. Francisco Beiró 4526 - CABA</p>
 
                 <div className='boton-ubicacion-container'>
                     <button className='boton-ubicacion'>VER UBICACION</button>

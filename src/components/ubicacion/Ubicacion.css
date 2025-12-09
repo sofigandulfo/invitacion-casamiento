@@ -1,12 +1,12 @@
 .ubicacion-container {
   text-align: center;
-  margin: 40px 0;
+  margin: 20px 0;
 }
 
 
 .nombre-lugar {
   font-family: 'Cinzel', serif;
-  font-size: 1.1em;
+  font-size: 1em;
   color: #2D679C;
   margin: 0;
   letter-spacing: 1px;
@@ -22,7 +22,7 @@
 
 
 .boton-ubicacion-container {
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 

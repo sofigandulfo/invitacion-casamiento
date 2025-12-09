@@ -1,0 +1,25 @@
+.codigo-vestimenta-titulo {
+  text-align: center;
+    font-size: 1.5em;
+    margin: 20px 0 0;
+}
+
+.codigo-vestimenta-descripcion {
+  text-align: center;
+  font-size: 0.8rem;
+  font-family: 'Cinzel', serif;
+  margin: 5px 0;
+  color: #91ACC6;
+}
+
+.codigo-vestimenta-img-container {
+  display: flex;
+  justify-content: center;
+}
+
+.codigo-vestimenta-img {
+  max-width: 50%;
+  height: auto;
+  object-fit: contain;
+  margin: 0 0 20px
+}

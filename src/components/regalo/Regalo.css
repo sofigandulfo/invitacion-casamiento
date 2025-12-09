@@ -1,0 +1,33 @@
+.regalo-titulo {
+  text-align: center;
+  margin: 20px 0 15px;
+  color: #2D679C;
+  font-size: 1.5em;
+}
+
+.regalo-img-container {
+  display: flex;
+  justify-content: center;
+}
+
+.regalo-img {
+  max-width: 120px;
+  width: 20%;
+  height: auto;
+}
+
+.regalo-texto {
+  text-align: center;
+  line-height: 1.2;
+  font-size: .9rem;
+  color: #91ACC6;
+  font-family: 'Cinzel', serif;
+  margin: 10px 0 0;
+}
+
+.regalo-separador-container {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+

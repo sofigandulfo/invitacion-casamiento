@@ -30,6 +30,11 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url('/fondo papel acuarela.png');
+  background-size: cover;        /* que llene la pantalla */
+  background-repeat: no-repeat;
+  background-attachment: fixed;  /* queda fijo mientras scrolleás */
+  background-position: center;
 }
 
 h1 {

@@ -1,11 +1,55 @@
 @font-face {
-     font-family: 'Qarinthen';
-    src: url(/src/assets/fonts/Qarinthen.otf);
+  font-family: 'Qarinthen';
+  src: url(/src/assets/fonts/Qarinthen.otf);
 }
 
 .contador-text{
-    font-family: 'Qarinthen';
-    color: #2D679C;
-    font-size: 1.2em;
+  font-family: 'Qarinthen';
+  color: #2D679C;
+  font-size: 1.5em;
+  margin: 0;
 }
 
+.contador-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.numero {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5rem;
+  color: #2D679C;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+
+.contador-numeros {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0;
+  line-height: 2em;
+}
+
+
+.dos-puntos {
+  font-size: 24px;
+  color: #2D679C;
+  font-weight: bold;
+  font-family: 'Cinzel', serif;
+  margin: 0;
+}
+
+.unidad {
+  font-family: 'Cinzel', serif;
+  color: #91ACC6;
+  font-weight: bold;
+  margin: 0;
+  font-size: .8rem;
+}
+
+.contador-seccion{
+  width: 70px; 
+  text-align: center;
+}

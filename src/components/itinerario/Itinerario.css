@@ -8,9 +8,10 @@
     color: #2D679C;
     text-align: center;
     font-size: 1.3em;
-    margin-bottom: 30px;
+    margin: 20px 0px 15px;
 }
 
 .separador-grande{
     width: 90%;
+    margin: 20px 0;
 }
