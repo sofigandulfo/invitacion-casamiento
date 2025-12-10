@@ -30,12 +30,13 @@
   color: #2D679C;
   font-family: 'Cinzel', serif;
   border: 1px solid #2D679C;
-  border-radius: 8px;
+  border-radius: 12px;
   font-size: 1em;
   cursor: pointer;
   transition: 0.2s ease;
   font-weight: bold;
-  background-color: white;
+  background-color: transparent;
+  padding: 0.5em 1em;
 }
 
 .boton-ubicacion:hover {

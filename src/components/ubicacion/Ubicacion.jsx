@@ -8,7 +8,7 @@ function Ubicacion(){
                 <p className='direccion'>Av. Francisco Beiró 4526 - CABA</p>
 
                 <div className='boton-ubicacion-container'>
-                    <button className='boton-ubicacion'>VER UBICACION</button>
+                    <a className='boton-ubicacion' href="https://maps.app.goo.gl/a71BKjFxNDqz6N4Q8" target='_blank'>VER UBICACION</a>
                 </div>
             </div>
             <div>
