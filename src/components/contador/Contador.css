@@ -6,8 +6,8 @@
 .contador-text{
   font-family: 'Qarinthen';
   color: #2D679C;
-  font-size: 1.5em;
-  margin: 0;
+  font-size: 2em;
+  margin: 0 0 5px;
 }
 
 .contador-container {
@@ -17,7 +17,7 @@
 
 .numero {
   font-family: 'Cinzel', serif;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: #2D679C;
   border-radius: 8px;
   font-weight: bold;
@@ -46,7 +46,7 @@
   color: #91ACC6;
   font-weight: bold;
   margin: 0;
-  font-size: .8rem;
+  font-size: .9rem;
 }
 
 .contador-seccion{

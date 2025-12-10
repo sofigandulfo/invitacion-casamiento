@@ -6,7 +6,7 @@
 
 .nombre-lugar {
   font-family: 'Cinzel', serif;
-  font-size: 1em;
+  font-size: 1.5em;
   color: #2D679C;
   margin: 0;
   letter-spacing: 1px;
@@ -15,7 +15,7 @@
 
 .direccion {
   font-family: 'Cinzel', serif;
-  font-size: 0.8em;
+  font-size: 1.3em;
   color: #2D679C;
   margin: 0;
 }
@@ -31,7 +31,7 @@
   font-family: 'Cinzel', serif;
   border: 1px solid #2D679C;
   border-radius: 8px;
-  font-size: 0.7em;
+  font-size: 1em;
   cursor: pointer;
   transition: 0.2s ease;
   font-weight: bold;
