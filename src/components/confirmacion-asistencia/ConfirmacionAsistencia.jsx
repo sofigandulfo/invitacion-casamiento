@@ -5,7 +5,7 @@ function ConfirmacionAsistencia(){
         <>
                <h2 className="confirmacion-titulo">Confirmar Asistencia</h2>
                 <div className='boton-ubicacion-container'>
-                    <a className='boton-ubicacion' href="" target='_blank'>Completar formulario</a>
+                    <a className='boton-ubicacion' href="https://forms.gle/yJ5aynLgfA8RssdcA" target='_blank'>Completar formulario</a>
                 </div>
 
                 <img src='/separador de textos chico.png' alt='Separador' className='separador-chico'></img>
