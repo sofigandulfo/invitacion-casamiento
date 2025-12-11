@@ -39,3 +39,25 @@
     height: 50px;
     object-fit: contain;
 }
+
+
+.boton-ubicacion-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.boton-ubicacion {
+    background-color: transparent;
+    color: #2D679C;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-family: 'Cinzel', serif;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.boton-ubicacion:hover {
+    background-color: #234e79;
+}

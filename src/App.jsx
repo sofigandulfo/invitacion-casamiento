@@ -9,6 +9,8 @@ import CodigoVestimenta from './components/codigo-vestimenta/CodigoVestimenta'
 import Regalo from './components/regalo/Regalo'
 import Footer from './components/footer/Footer'
 
+import './Queries.css'
+
 function App() {
 
 

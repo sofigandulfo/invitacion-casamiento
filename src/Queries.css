@@ -1,0 +1,196 @@
+
+@media (min-width: 768px) {
+
+  .confirmacion-titulo,
+  .regalo-titulo,
+  .itinerario-titulo,
+  .codigo-vestimenta-titulo,
+  .contador-text,
+  .texto-final,
+  .titulo-casamiento {
+    font-size: 2.4em;
+  }
+
+  .texto-principal,
+  .regalo-texto{
+    font-size: 1.2em;
+  }
+
+
+  .circulo-img {
+  width: 90%;
+  max-width: 400px;
+  margin: 10px auto; 
+  height: auto;
+  display: block;
+}
+
+.deco-img {
+  position: absolute;
+  bottom: 0px;      
+  left: -20px;        
+  width: 110px;  
+  transform: rotate(-60deg);
+  pointer-events: none; 
+}
+
+
+  .codigo-vestimenta-descripcion {
+    font-size: 1.6rem;
+  }
+
+  .codigo-vestimenta-img {
+    max-width: 45%;
+  }
+
+  .confirmacion-container {
+    gap: 40px;
+  }
+
+  .contacto-item p {
+    font-size: 1.2rem;
+  }
+
+  .whatsapp-logo {
+    width: 65px;
+    height: 65px;
+  }
+
+  .boton-ubicacion {
+    font-size: 1rem;
+    padding: 10px 24px;
+  }
+
+  .contador-numeros .numero {
+    font-size: 2.2rem;
+  }
+
+  .contador-seccion {
+    width: 90px;
+  }
+
+  .dos-puntos {
+    font-size: 28px;
+  }
+
+  .unidad {
+    font-size: 1.1rem;
+  }
+
+  .img-fecha {
+    width: 60%;
+    max-width: 500px;
+  }
+
+  .itinerario-img {
+    width: 50%;
+  }
+
+  .circulo-img {
+    max-width: 350px;
+  }
+
+  .deco-img {
+    width: 130px;
+  }
+
+  .footer-img {
+    max-width: 430px;
+  }
+}
+
+
+
+
+/* ----------------------------- */
+/* 💻 DESKTOP */
+/* ----------------------------- */
+@media (min-width: 1024px) {
+
+  .confirmacion-titulo,
+  .regalo-titulo,
+  .itinerario-titulo,
+  .codigo-vestimenta-titulo,
+  .contador-text,
+  .texto-final {
+    font-size: 2.8em;
+  }
+
+  .circulo-img {
+  width: 100%;
+  max-width: 500px;
+  margin: 10px auto; 
+  height: auto;
+  display: block;
+}
+
+.deco-img {
+  position: absolute;
+  bottom: -10px;      
+  left: -40px;        
+  width: 110px;  
+  transform: rotate(-60deg);
+  pointer-events: none; 
+}
+
+  .codigo-vestimenta-descripcion {
+    font-size: 1.8rem;
+  }
+
+  .codigo-vestimenta-img {
+    max-width: 35%;
+  }
+
+  .confirmacion-container {
+    gap: 60px;
+  }
+
+  .contacto-item p {
+    font-size: 1.3rem;
+  }
+
+  .whatsapp-logo {
+    width: 75px;
+    height: 75px;
+  }
+
+  .contador-numeros .numero {
+    font-size: 2.6rem;
+  }
+
+  .contador-seccion {
+    width: 100px;
+  }
+
+  .dos-puntos {
+    font-size: 34px;
+  }
+
+  .unidad {
+    font-size: 1.2rem;
+  }
+
+  .img-fecha {
+    width: 50%;
+  }
+
+  .itinerario-img {
+    width: 40%;
+  }
+
+  .circulo-img {
+    max-width: 380px;
+  }
+
+  .deco-img {
+    width: 150px;
+  }
+
+  .separador-chico {
+    max-width: 260px;
+  }
+
+  .footer-img {
+    max-width: 480px;
+  }
+}

@@ -1,5 +1,5 @@
 
-p{
+.texto-principal{
     font-family: 'Cinzel', serif;
     color: #2D679C;
     font-size: 1em;
@@ -31,9 +31,14 @@ p{
   pointer-events: none; 
 }
 
+.separador-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
 .separador-1 {
-  width: 85%;  
+  width: 100%;
+  max-width: 350px;
   height: auto;
-  display: block;
-  margin: 0px auto;  
 }

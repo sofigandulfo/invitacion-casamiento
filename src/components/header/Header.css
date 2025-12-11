@@ -10,16 +10,18 @@
 
 /* Imagen del centro */
 .iniciales-img {
-  width: 110px;
+  width: 18vw;
+  max-width: 160px;
+  min-width: 110px;
   height: auto;
-  z-index: 2;
   margin-top: 40px;
 }
-
 /* Esquinas */
 .esquina {
-  position: absolute;     /* 🔥 se superponen sin empujar */
-  width: 140px;           /* acá las agrandás todo lo que quieras */
+  position: absolute;
+  width: 20vw;            /* Escala con ancho de pantalla */
+  max-width: 200px;       /* Pero NO pasa este tamaño */
+  min-width: 110px;       /* Para que no se haga demasiado chiquita */
   height: auto;
   object-fit: contain;
   z-index: 1;
