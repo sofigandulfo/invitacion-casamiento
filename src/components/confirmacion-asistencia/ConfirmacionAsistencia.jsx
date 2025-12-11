@@ -11,7 +11,7 @@ function ConfirmacionAsistencia(){
                 <img src='/separador de textos chico.png' alt='Separador' className='separador-chico'></img>
 
 
-                <h2 className='confirmacion-titulo'>Contacto con los novios</h2>
+                <h2 className='confirmacion-titulo'>Contacto de los novios</h2>
             <div className="confirmacion-container">
                 
                 <div className="contacto-item">
