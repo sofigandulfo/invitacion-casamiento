@@ -19,6 +19,9 @@
   margin: 0 auto; 
   height: auto;
   display: block;
+  border-radius: 50%;
+  border: 1px solid #000;
+  
 }
 
 

@@ -5,7 +5,7 @@ function Principal(){
         <>
         <div className='principal-container'>
             <div className="circulo-container">
-                <img src='/circulo.png' className='circulo-img'></img>
+                <img src='/foto-novios.png' className='circulo-img'></img>
                 <img src='/Deco para la foto de J&L.png' className='deco-img'></img>
             </div>
             <p className='texto-principal'>El amor es encontrarse en otro corazón <br />
