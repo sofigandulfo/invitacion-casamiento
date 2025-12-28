@@ -6,13 +6,13 @@ function Regalo() {
     {
       id: "pesos",
       titulo: "Pesos",
-      cbu: "007001463000403505401",
+      cbu: "0070014630004035054017",
       alias: "GOLF.ALARMA.BRASIL"
     },
     {
       id: "dolares",
       titulo: "Dólares",
-      cbu: "00700146-31004033340957",
+      cbu: "0070014631004033340957",
       alias: "LLUVIA.BALADA.JAGUAR"
     }
   ]
@@ -50,7 +50,7 @@ function Regalo() {
 
              <div className="cbu-card">
             <h2 className="regalo-aclaracion">
-                Transferencia bancaria
+                Datos bancarios
             </h2>
         {cuentas.map((cuenta) => (
     <div key={cuenta.id} className="cuenta-bloque">
